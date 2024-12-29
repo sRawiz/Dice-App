@@ -1,4 +1,4 @@
 # Dice App
 
-This is my seconed flutter app!
+This is my first flutter app!
 
